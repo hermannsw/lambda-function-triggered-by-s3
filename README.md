@@ -1,0 +1,1 @@
+# sample_lambda_function_triggered_by_s3
